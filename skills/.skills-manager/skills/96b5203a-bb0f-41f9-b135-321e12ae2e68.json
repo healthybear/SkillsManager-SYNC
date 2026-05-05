@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "96b5203a-bb0f-41f9-b135-321e12ae2e68",
+  "path": "uni-page-generator",
+  "path_key": "uni-page-generator",
+  "enabled": true,
+  "tags": [
+    "wot-ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "wot-ui/wot-starter/uni-page-generator",
+    "subpath": ".agent\\skills\\uni-page-generator",
+    "branch": null
+  }
+}

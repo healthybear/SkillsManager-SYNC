@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "69eae74d-5d60-4cc8-80ac-f31d81dd201e",
+  "path": "express-rest-api",
+  "path_key": "express-rest-api",
+  "enabled": true,
+  "tags": [
+    "node"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "pluginagentmarketplace/custom-plugin-nodejs/express-rest-api",
+    "subpath": "skills\\express-rest-api",
+    "branch": null
+  }
+}

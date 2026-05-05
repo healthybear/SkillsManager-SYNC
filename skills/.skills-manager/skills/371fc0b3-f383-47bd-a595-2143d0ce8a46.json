@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "371fc0b3-f383-47bd-a595-2143d0ce8a46",
+  "path": "wot-ui",
+  "path_key": "wot-ui",
+  "enabled": true,
+  "tags": [
+    "wot-ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "wot-ui/wot-starter/wot-ui",
+    "subpath": ".agent\\skills\\wot-ui",
+    "branch": null
+  }
+}

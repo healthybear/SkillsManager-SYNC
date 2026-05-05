@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "50ff0fd8-8ad8-4cff-a9a8-04197662022b",
+  "path": "global-feedback",
+  "path_key": "global-feedback",
+  "enabled": true,
+  "tags": [
+    "wot-ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "wot-ui/wot-starter/global-feedback",
+    "subpath": ".agent\\skills\\global-feedback",
+    "branch": null
+  }
+}

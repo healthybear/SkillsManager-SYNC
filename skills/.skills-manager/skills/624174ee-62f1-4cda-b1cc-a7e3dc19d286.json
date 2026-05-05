@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "624174ee-62f1-4cda-b1cc-a7e3dc19d286",
+  "path": "nodejs-express-server",
+  "path_key": "nodejs-express-server",
+  "enabled": true,
+  "tags": [
+    "node"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "aj-geddes/useful-ai-prompts/nodejs-express-server",
+    "subpath": "skills\\nodejs-express-server",
+    "branch": null
+  }
+}

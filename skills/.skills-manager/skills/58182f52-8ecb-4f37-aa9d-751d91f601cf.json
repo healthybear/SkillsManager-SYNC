@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "58182f52-8ecb-4f37-aa9d-751d91f601cf",
+  "path": "wot-router-usage",
+  "path_key": "wot-router-usage",
+  "enabled": true,
+  "tags": [
+    "wot-ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "wot-ui/wot-starter/wot-router-usage",
+    "subpath": ".agent\\skills\\wot-router-usage",
+    "branch": null
+  }
+}

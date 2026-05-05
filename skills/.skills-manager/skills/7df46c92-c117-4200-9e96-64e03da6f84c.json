@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "7df46c92-c117-4200-9e96-64e03da6f84c",
+  "path": "starter-cleaner",
+  "path_key": "starter-cleaner",
+  "enabled": true,
+  "tags": [
+    "wot-ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "wot-ui/wot-starter/starter-cleaner",
+    "subpath": ".agent\\skills\\starter-cleaner",
+    "branch": null
+  }
+}

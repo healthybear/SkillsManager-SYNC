@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22e6b7ae-ecfe-4bd2-b79e-f41e3983d29b",
+  "path": "gsap-react",
+  "path_key": "gsap-react",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "greensock/gsap-skills/gsap-react",
+    "subpath": "skills\\gsap-react",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a707f01a-2212-441a-bb31-fa7cffefa8f0",
+  "path": "gsap-plugins",
+  "path_key": "gsap-plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "greensock/gsap-skills/gsap-plugins",
+    "subpath": "skills\\gsap-plugins",
+    "branch": null
+  }
+}

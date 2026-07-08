@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e32c4ed5-ced9-4c9e-8ee5-29dcd60f1d98",
+  "path": "xml-to-compose-migration",
+  "path_key": "xml-to-compose-migration",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\migration\\xml-to-compose-migration",
+    "branch": null
+  }
+}

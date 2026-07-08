@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e583be2a-43b7-4b38-9ae8-ccef6a50a4f6",
+  "path": "android-viewmodel",
+  "path_key": "android-viewmodel",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\architecture\\android-viewmodel",
+    "branch": null
+  }
+}

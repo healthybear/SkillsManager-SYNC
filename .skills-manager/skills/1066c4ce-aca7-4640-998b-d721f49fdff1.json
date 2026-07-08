@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "1066c4ce-aca7-4640-998b-d721f49fdff1",
+  "path": "play-billing-library-version-upgrade",
+  "path_key": "play-billing-library-version-upgrade",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "play\\play-billing-library-version-upgrade",
+    "branch": null
+  }
+}

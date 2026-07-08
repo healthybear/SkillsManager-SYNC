@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5dd74240-6205-4ba8-8bd3-e5d75a9c7c06",
+  "path": "android-accessibility",
+  "path_key": "android-accessibility",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\ui\\android-accessibility",
+    "branch": null
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "789679bc-7fdc-40cb-9afc-c00abc96bb28",
+  "name": "awesome-android-agent-skills",
+  "description": "安卓开发范式",
+  "icon": "briefcase",
+  "sort_order": 999
+}

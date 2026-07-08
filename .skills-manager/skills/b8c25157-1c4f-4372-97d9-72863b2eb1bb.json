@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8c25157-1c4f-4372-97d9-72863b2eb1bb",
+  "path": "android-gradle-logic",
+  "path_key": "android-gradle-logic",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\build_and_tooling\\android-gradle-logic",
+    "branch": null
+  }
+}

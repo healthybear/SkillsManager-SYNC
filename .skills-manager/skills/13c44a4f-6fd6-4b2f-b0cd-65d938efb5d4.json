@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "13c44a4f-6fd6-4b2f-b0cd-65d938efb5d4",
+  "path": "navigation-3",
+  "path_key": "navigation-3",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "navigation\\navigation-3",
+    "branch": null
+  }
+}

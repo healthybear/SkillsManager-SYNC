@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb1f6b36-5327-404a-a51c-931ebbe06297",
+  "path": "compose-performance-audit",
+  "path_key": "compose-performance-audit",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\performance\\compose-performance-audit",
+    "branch": null
+  }
+}

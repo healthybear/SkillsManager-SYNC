@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d96bba4-1e5d-479e-97ca-6149cacecafc",
+  "path": "kotlin-concurrency-expert",
+  "path_key": "kotlin-concurrency-expert",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\concurrency_and_networking\\kotlin-concurrency-expert",
+    "branch": null
+  }
+}

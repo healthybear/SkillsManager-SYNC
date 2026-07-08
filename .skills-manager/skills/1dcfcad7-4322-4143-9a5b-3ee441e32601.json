@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "1dcfcad7-4322-4143-9a5b-3ee441e32601",
+  "path": "android-architecture",
+  "path_key": "android-architecture",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\architecture\\android-architecture",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5e2976f4-e398-4b31-83f8-b7f61acc17ac",
+  "path": "edge-to-edge",
+  "path_key": "edge-to-edge",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "system\\edge-to-edge",
+    "branch": null
+  }
+}

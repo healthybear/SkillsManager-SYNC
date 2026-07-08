@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "56aa438f-bfeb-4cd0-816c-2dd7d87f692e",
+  "path": "gradle-build-performance",
+  "path_key": "gradle-build-performance",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\performance\\gradle-build-performance",
+    "branch": null
+  }
+}

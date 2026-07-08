@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5abc4d44-ac13-4720-bc22-e7b485519a2e",
+  "path": "migrate-xml-views-to-jetpack-compose",
+  "path_key": "migrate-xml-views-to-jetpack-compose",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "jetpack-compose\\migration\\migrate-xml-views-to-jetpack-compose",
+    "branch": null
+  }
+}

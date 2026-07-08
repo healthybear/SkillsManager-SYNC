@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "6779e466-f826-4926-bae7-8a0b0eff8985",
+  "path": "android-retrofit",
+  "path_key": "android-retrofit",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\concurrency_and_networking\\android-retrofit",
+    "branch": null
+  }
+}

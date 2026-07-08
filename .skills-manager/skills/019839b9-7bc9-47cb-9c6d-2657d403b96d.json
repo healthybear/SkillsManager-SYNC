@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "019839b9-7bc9-47cb-9c6d-2657d403b96d",
+  "path": "compose-navigation",
+  "path_key": "compose-navigation",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\ui\\compose-navigation",
+    "branch": null
+  }
+}

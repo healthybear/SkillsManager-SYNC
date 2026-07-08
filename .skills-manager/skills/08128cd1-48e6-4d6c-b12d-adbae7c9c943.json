@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "08128cd1-48e6-4d6c-b12d-adbae7c9c943",
+  "path": "coil-compose",
+  "path_key": "coil-compose",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\ui\\coil-compose",
+    "branch": null
+  }
+}

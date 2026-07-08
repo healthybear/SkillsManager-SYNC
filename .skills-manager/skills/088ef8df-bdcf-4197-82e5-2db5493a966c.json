@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "088ef8df-bdcf-4197-82e5-2db5493a966c",
+  "path": "android-coroutines",
+  "path_key": "android-coroutines",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\concurrency_and_networking\\android-coroutines",
+    "branch": null
+  }
+}

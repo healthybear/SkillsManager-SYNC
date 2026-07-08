@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "720174ad-4c34-41c7-b78a-b92670ce24e1",
+  "path": "display-glasses-with-jetpack-compose-glimmer",
+  "path_key": "display-glasses-with-jetpack-compose-glimmer",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "xr\\display-glasses-with-jetpack-compose-glimmer",
+    "branch": null
+  }
+}

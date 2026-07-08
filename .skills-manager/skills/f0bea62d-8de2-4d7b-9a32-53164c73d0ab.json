@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "f0bea62d-8de2-4d7b-9a32-53164c73d0ab",
+  "path": "perfetto-trace-analysis",
+  "path_key": "perfetto-trace-analysis",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "profilers\\perfetto-trace-analysis",
+    "branch": null
+  }
+}

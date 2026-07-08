@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "41ca485f-1a54-4560-98a5-9705e66126e1",
+  "path": "android-data-layer",
+  "path_key": "android-data-layer",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\architecture\\android-data-layer",
+    "branch": null
+  }
+}

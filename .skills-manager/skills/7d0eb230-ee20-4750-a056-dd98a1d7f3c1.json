@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d0eb230-ee20-4750-a056-dd98a1d7f3c1",
+  "path": "perfetto-sql",
+  "path_key": "perfetto-sql",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "profilers\\perfetto-sql",
+    "branch": null
+  }
+}

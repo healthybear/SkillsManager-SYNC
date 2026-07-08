@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a0eaff5-08fc-4753-8038-b4784b1c33bd",
+  "path": "android-testing",
+  "path_key": "android-testing",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\testing_and_automation\\android-testing",
+    "branch": null
+  }
+}

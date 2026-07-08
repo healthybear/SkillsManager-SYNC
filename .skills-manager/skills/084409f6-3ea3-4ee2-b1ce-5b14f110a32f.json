@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "084409f6-3ea3-4ee2-b1ce-5b14f110a32f",
+  "path": "appfunctions",
+  "path_key": "appfunctions",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "device-ai\\appfunctions",
+    "branch": null
+  }
+}

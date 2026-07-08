@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "05d2664e-32e4-4de3-9bb1-92834764fc17",
+  "path": "compose-ui",
+  "path_key": "compose-ui",
+  "enabled": true,
+  "tags": [
+    "awesome-android-agent-skills"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/new-silvermoon/awesome-android-agent-skills",
+    "subpath": ".github\\skills\\ui\\compose-ui",
+    "branch": null
+  }
+}

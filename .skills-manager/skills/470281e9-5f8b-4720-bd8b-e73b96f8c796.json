@@ -4,7 +4,9 @@
   "path": "gsap-core",
   "path_key": "gsap-core",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "gsap"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "greensock/gsap-skills/gsap-core",

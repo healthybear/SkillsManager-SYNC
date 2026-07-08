@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "17366c1d-4e58-4d73-acff-0d3e67c56c51",
+  "path": "changelog-generator",
+  "path_key": "changelog-generator",
+  "enabled": true,
+  "tags": [
+    "default"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "composiohq/awesome-claude-skills/changelog-generator",
+    "subpath": "changelog-generator",
+    "branch": null
+  }
+}

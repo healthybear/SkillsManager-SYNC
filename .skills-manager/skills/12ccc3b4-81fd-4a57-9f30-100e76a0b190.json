@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "12ccc3b4-81fd-4a57-9f30-100e76a0b190",
+  "path": "pnpm",
+  "path_key": "pnpm",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/pnpm",
+    "subpath": "skills/pnpm",
+    "branch": null
+  }
+}

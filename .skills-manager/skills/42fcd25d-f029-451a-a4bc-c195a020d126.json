@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "42fcd25d-f029-451a-a4bc-c195a020d126",
+  "path": "unocss",
+  "path_key": "unocss",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/unocss",
+    "subpath": "skills/unocss",
+    "branch": null
+  }
+}

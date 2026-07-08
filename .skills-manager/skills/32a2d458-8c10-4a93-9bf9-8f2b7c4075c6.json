@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "32a2d458-8c10-4a93-9bf9-8f2b7c4075c6",
+  "path": "android-kotlin",
+  "path_key": "android-kotlin",
+  "enabled": true,
+  "tags": [
+    "android"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "alinaqi/claude-bootstrap/android-kotlin",
+    "subpath": "skills/android-kotlin",
+    "branch": null
+  }
+}

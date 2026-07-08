@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f91145df-77a7-4b92-99a1-e2a2a8c4f17b",
+  "path": "skills/systematic-debugging",
+  "path_key": "skills/systematic-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

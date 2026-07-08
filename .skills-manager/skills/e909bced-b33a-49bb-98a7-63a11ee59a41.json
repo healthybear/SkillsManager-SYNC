@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e909bced-b33a-49bb-98a7-63a11ee59a41",
+  "path": "web-design-guidelines",
+  "path_key": "web-design-guidelines",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/web-design-guidelines",
+    "subpath": "skills/web-design-guidelines",
+    "branch": null
+  }
+}

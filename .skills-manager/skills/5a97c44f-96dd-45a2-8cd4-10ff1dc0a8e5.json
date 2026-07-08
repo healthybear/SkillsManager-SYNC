@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a97c44f-96dd-45a2-8cd4-10ff1dc0a8e5",
+  "path": "skills/global-feedback",
+  "path_key": "skills/global-feedback",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

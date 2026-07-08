@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "544bd5dc-a5b5-47eb-920e-86cc73753ef7",
+  "path": "git-commit",
+  "path_key": "git-commit",
+  "enabled": true,
+  "tags": [
+    "default"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "github/awesome-copilot/git-commit",
+    "subpath": "skills/git-commit",
+    "branch": null
+  }
+}

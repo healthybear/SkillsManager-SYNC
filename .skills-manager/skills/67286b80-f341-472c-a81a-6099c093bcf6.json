@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "67286b80-f341-472c-a81a-6099c093bcf6",
+  "path": "pandoc",
+  "path_key": "pandoc",
+  "enabled": true,
+  "tags": [
+    "default"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "plinde/claude-plugins/pandoc",
+    "subpath": "pandoc",
+    "branch": null
+  }
+}

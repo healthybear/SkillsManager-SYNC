@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "776dc33c-c87d-4070-aebb-8d221af7cbfb",
+  "path": "skills/pinia",
+  "path_key": "skills/pinia",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

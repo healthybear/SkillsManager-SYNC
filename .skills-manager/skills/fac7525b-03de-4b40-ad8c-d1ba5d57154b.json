@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fac7525b-03de-4b40-ad8c-d1ba5d57154b",
+  "path": "skills/pnpm",
+  "path_key": "skills/pnpm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

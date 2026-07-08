@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "bcfda008-2641-4260-8d65-333050d7f570",
+  "path": "weekly-report",
+  "path_key": "weekly-report",
+  "enabled": true,
+  "tags": [
+    "default"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "claude-office-skills/skills/weekly-report",
+    "subpath": "weekly-report",
+    "branch": null
+  }
+}

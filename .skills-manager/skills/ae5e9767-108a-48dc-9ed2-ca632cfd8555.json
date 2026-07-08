@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae5e9767-108a-48dc-9ed2-ca632cfd8555",
+  "path": "pinia",
+  "path_key": "pinia",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/pinia",
+    "subpath": "skills/pinia",
+    "branch": null
+  }
+}

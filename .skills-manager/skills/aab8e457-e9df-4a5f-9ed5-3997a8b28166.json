@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aab8e457-e9df-4a5f-9ed5-3997a8b28166",
+  "path": "skills/nodejs-express-server",
+  "path_key": "skills/nodejs-express-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

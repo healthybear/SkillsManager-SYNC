@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8391e1d0-b01d-4313-8976-47b903f38ddd",
+  "path": "turborepo",
+  "path_key": "turborepo",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/turborepo",
+    "subpath": "skills/turborepo",
+    "branch": null
+  }
+}

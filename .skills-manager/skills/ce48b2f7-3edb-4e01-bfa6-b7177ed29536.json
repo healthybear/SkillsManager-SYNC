@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce48b2f7-3edb-4e01-bfa6-b7177ed29536",
+  "path": "skills/vitepress",
+  "path_key": "skills/vitepress",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

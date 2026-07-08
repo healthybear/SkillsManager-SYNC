@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "339146e3-a1a1-4d99-9550-7602978b7fd4",
+  "path": "nuxt",
+  "path_key": "nuxt",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/nuxt",
+    "subpath": "skills/nuxt",
+    "branch": null
+  }
+}

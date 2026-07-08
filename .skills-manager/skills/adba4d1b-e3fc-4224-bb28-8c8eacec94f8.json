@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "adba4d1b-e3fc-4224-bb28-8c8eacec94f8",
+  "path": "skills/starter-cleaner",
+  "path_key": "skills/starter-cleaner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

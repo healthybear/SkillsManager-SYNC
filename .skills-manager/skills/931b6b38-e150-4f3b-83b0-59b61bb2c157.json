@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "931b6b38-e150-4f3b-83b0-59b61bb2c157",
+  "path": "antfu",
+  "path_key": "antfu",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/antfu",
+    "subpath": "skills/antfu",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "0fffb084-f891-4f9a-8917-d8f657cd35aa",
+  "path": "element-plus-vue3",
+  "path_key": "element-plus-vue3",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "teachingai/full-stack-skills/element-plus-vue3",
+    "subpath": "skills/vue-ui-skills/element-plus-vue3",
+    "branch": null
+  }
+}

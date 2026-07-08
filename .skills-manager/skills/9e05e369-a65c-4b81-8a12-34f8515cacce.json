@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e05e369-a65c-4b81-8a12-34f8515cacce",
+  "path": "skills/wot-router-usage",
+  "path_key": "skills/wot-router-usage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -10,7 +10,7 @@
   "source": {
     "type": "skillssh",
     "ref": "teachingai/full-stack-skills/element-plus-vue3",
-    "subpath": "skills/vue-ui-skills/element-plus-vue3",
+    "subpath": null,
     "branch": null
   }
 }

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee992c7a-7913-4235-bc5b-75a79d64f7ab",
+  "path": "ant-design-vue",
+  "path_key": "ant-design-vue",
+  "enabled": true,
+  "tags": [
+    "Vue"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "teachingai/full-stack-skills/ant-design-vue",
+    "subpath": null,
+    "branch": null
+  }
+}

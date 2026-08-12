@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c141cab-315f-4500-b9ca-85f9a8fec7f9",
+  "path": "interface-design",
+  "path_key": "interface-design",
+  "enabled": true,
+  "tags": [
+    "ui"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "dammyjay93/interface-design/interface-design",
+    "subpath": ".claude/skills/interface-design",
+    "branch": null
+  }
+}

@@ -5,8 +5,10 @@
   "sort_order": 0,
   "tools": {
     "claude_code": true,
+    "codebuddy": true,
     "codex": true,
     "cursor": true,
-    "github_copilot": true
+    "github_copilot": true,
+    "workbuddy": true
   }
 }

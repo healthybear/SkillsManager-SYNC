@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3ec6840-d614-44e0-bcaf-1d70ea8cac8c",
+  "path": "electron-development",
+  "path_key": "electron-development",
+  "enabled": true,
+  "tags": [
+    "electron"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "mindrally/skills/electron-development",
+    "subpath": "electron-development",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa1505d5-936c-4a67-85ec-79b73f62d204",
+  "path": "security-review",
+  "path_key": "security-review",
+  "enabled": true,
+  "tags": [
+    "engineering"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "getsentry/skills/security-review",
+    "subpath": "skills/security-review",
+    "branch": null
+  }
+}

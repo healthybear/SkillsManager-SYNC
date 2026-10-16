@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "efeefb4a-c47e-4f57-bf22-c0c904f342fa",
+  "name": "engineering",
+  "description": "工程，开发工程化",
+  "icon": "briefcase",
+  "sort_order": 999
+}

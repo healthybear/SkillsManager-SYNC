@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7de2bea-9124-4206-92e6-f4223cfcdedd",
+  "path": "karpathy-guidelines",
+  "path_key": "karpathy-guidelines",
+  "enabled": true,
+  "tags": [
+    "engineering"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "szkocot/andrej-karpathy-skills/karpathy-guidelines",
+    "subpath": "skills/karpathy-guidelines",
+    "branch": null
+  }
+}

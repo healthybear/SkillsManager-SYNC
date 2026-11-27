@@ -117,6 +117,54 @@ For detailed strategies, bash patterns, and extensive examples, see [strategies.
 
 ---
 
+## Anchor repo-wide scans at the repo root
+
+The Bash tool's working directory **persists across calls**. A `grep -r ... .` or `find .`
+issued after an earlier `cd` scans that subdirectory, not the repo -- and reports a confident,
+wrong answer with no error.
+
+Real failure: `grep -rn 'compleasm/compleasm/' --include='*.ga' .` returned "4 matches, all in
+one workflow", and that was reported to the user as "the pin is confined to this workflow." cwd
+was inside that workflow's directory. Repo-wide there were **12 more references across 4 other
+workflows**.
+
+**For any claim about the whole repo, anchor the path explicitly:**
+
+```bash
+cd "$(git rev-parse --show-toplevel)" && grep -rn PATTERN --include='*.ga' workflows/
+# or
+grep -rn PATTERN --include='*.ga' /abs/path/to/repo/workflows/
+```
+
+Cheap self-check before reporting scope -- if the count looks suspiciously small, confirm the
+denominator:
+```bash
+pwd; find "$(git rev-parse --show-toplevel)" -name '*.ga' | wc -l
+```
+
+Applies to any "is this pattern used elsewhere?" audit -- exactly the question where an
+under-scoped answer is most damaging.
+
+### Also applies to git pathspecs
+
+`git` pathspecs resolve against the repo root, not cwd. Run from inside the
+directory you are naming and git looks for it nested under itself:
+
+```
+$ cd workflows/VGP-assembly-v2/Purge-duplicate-contigs-VGP6
+$ git status --short -- workflows/VGP-assembly-v2/Purge-duplicate-contigs-VGP6/
+warning: could not open directory '.../Purge-duplicate-contigs-VGP6/workflows/VGP-assembly-v2/Purge-duplicate-contigs-VGP6/'
+```
+
+It warns rather than failing, so a status check can silently report nothing and
+read as "clean". Anchor it:
+
+```bash
+cd "$(git rev-parse --show-toplevel)" && git status --short -- <repo-relative-path>
+```
+
+---
+
 ## Scope-Based Tool Selection
 
 The choice between bash and Read+Edit isn't about token cost alone — it's about whether the user benefits from seeing the change. Match the tool to the scope of work:
